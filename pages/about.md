@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 description: simple life
 keywords: byxiangfei
 comments: true
@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-## 联系
+## Contact
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
