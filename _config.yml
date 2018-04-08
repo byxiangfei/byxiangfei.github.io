@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: byxiangfei
-organization:
-organization_url: FreeWheel.Inc
+organization: FreeWheel.Inc
+organization_url: http://www.freewheel.cn/
 github_username: byxiangfei
 location: Beijing, China
 email: zhangxiangbupt@163.com
