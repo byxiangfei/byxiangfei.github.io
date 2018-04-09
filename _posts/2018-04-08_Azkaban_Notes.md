@@ -3,7 +3,7 @@ layout: post
 title: Azkaban Notes
 categories: [big_data]
 description: http://azkaban.github.io/azkaban/docs/latest/
-Keywords: big_data, Azkaban
+keywords: big_data, Azkaban
 ---
 
 #Azkaban Note
