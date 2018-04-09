@@ -17,3 +17,27 @@ Follow these steps to get started.
 * **Start the server:** run cd azkaban-solo-server/build/install/azkaban-solo-server; bin/azkaban-solo-start.sh  
 * **Stop server:** run bin/azkaban-solo-shutdown.sh from within the azkaban-solo-server installation directory  
 
+UI: localhost:8081  default usr/pwd: Azkaban/Azkaban
+
+
+
+## Upload Tasks
+
+Example
+
+~~~
+# cat ./task1.job
+type = command  
+command = chmod +x main  
+
+# cat ./task2.job
+type = command
+command = ./main
+dependencies = task1
+~~~
+
+* One job can only run single command line.
+* You can write into one single shell for all your commands. 
+
+
+
