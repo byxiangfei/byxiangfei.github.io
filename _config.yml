@@ -85,7 +85,8 @@ comments_provider: gitalk
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: byxiangfei
-    repo: blog-comments
+    repo: byxiangfei.github.io
+    admin: byxiangfei
     clientID: 86bd3b837f4024f2e5d4
     clientSecret: b54b95f3d952b9437a28b009886a510be645f873
 # 在使用其它评论组件时可点击显示 Disqus
