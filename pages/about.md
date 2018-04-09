@@ -3,7 +3,7 @@ layout: page
 title: About Me
 description: simple life
 keywords: byxiangfei
-comments: true
+comments: false
 menu: 关于
 permalink: /about/
 ---

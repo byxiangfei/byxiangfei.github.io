@@ -84,7 +84,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: byxiangfei 
+    owner: byxiangfei
     repo: blog-comments
     clientID: 86bd3b837f4024f2e5d4
     clientSecret: b54b95f3d952b9437a28b009886a510be645f873
